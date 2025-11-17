@@ -1,3 +1,3 @@
-module furiousindustries.com/goutil
+module jnewth/goutil
 
 go 1.24.3
